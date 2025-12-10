@@ -45,7 +45,6 @@ The datasets used are stored in the `data/` folder:
 
 - `student.csv` — anonymised student performance data
 - `gdp_per_capita.csv` — GDP per capita by country/territory and UN region  
-  > Rename your original GDP CSV to `gdp_per_capita.csv` or update the notebook path accordingly.
 
 ## ⚙️ Requirements
 
